@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: vedantpandey459@gmail.com
 - 😄 Pronouns: he/him
 
-![An image of @jgyfutub's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jgyfutub)](https://holopin.io/@jgyfutub)
+![An image of @jgyfutub's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jgyfutub)
