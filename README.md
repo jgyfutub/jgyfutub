@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Vedant Pandey,Pre Final Year student of MNNIT:
+I am Vedant Pandey, Final Year student of MNNIT:
 
 - 🔭 I’m currently learning Data Science,Machine Learning and Generative AI
 - 🌱 I’m worked in Backend and Frontend WebDevelopment,Supervised Machine Learning,Computer Vision,NLP and Generative AI
